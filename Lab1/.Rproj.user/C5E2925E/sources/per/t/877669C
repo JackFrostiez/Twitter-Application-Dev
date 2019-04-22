@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550180345720.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1893225000",
+    "id" : "877669C",
+    "lastKnownWriteTime" : 1550184065,
+    "last_content_update" : 1550184065,
+    "path" : "C:/Users/Jacky/Downloads/CSE487/Lab/handout.R",
+    "project_path" : "handout.R",
+    "properties" : {
+        "cursorPosition" : "13,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
