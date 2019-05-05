@@ -29,9 +29,29 @@ Here's a few that I made:
 * [Graph 2](https://raw.githubusercontent.com/JackFrostiez/Twitter-Application-Dev/master/Lab1/part2/Graph_2.png)
 * [a CDC HeatMap](https://raw.githubusercontent.com/JackFrostiez/Twitter-Application-Dev/master/Lab1/part2/Graph_3.png)
 
-
-
 A twitter application implemented in R to gather over 2,000+ tweets with hashtags 
 involving the user’s keyword input using the [rtweet](https://rtweet.info/) library.
 
+### Part 3
+__For this part, we will start developing a twitter application.__
 
+We need to use Twitter API and do a keyword query search for tweets.  
+(_For me, I searched for 10,000 tweets for each keywords "Flu", "Flu Season", and "Sick"._)  
+
+After gathering the tweets, we would need to extract tweets only from users with geolocations found in the data collected.  
+(_Note: Not all users provided their geolocations in the twitter data_)
+
+As a result, I successfully made heatmaps representing each keyword.  
+Below is the original CDC Heatmap:
+![alt text](https://github.com/JackFrostiez/Twitter-Application-Dev/blob/master/Lab1/CDC_HeatMap.png)
+
+__"Flu" Heatmap__
+![alt text](https://github.com/JackFrostiez/Twitter-Application-Dev/blob/master/Lab1/Flu_HeatMap.png)  
+__"Flu Season" Heatmap__
+![alt text](https://github.com/JackFrostiez/Twitter-Application-Dev/blob/master/Lab1/Flu_Season_HeatMap.png)
+__"Sick" Heatmap__
+![alt text](https://github.com/JackFrostiez/Twitter-Application-Dev/blob/master/Lab1/Sick_HeatMap.png)
+
+I concluded that my "Sick" Heatmap resembleed closest to CDC Heatmap.
+
+__Thanks for reading! I hope you enjoyed seeing my heatmaps!__
