@@ -1,6 +1,9 @@
 # Twitter-Application-Development
 A project from my CSE 487: Data Intensive Computing Course.
 
+A twitter application was implemented in R to gather over 10,000+ tweets with hashtags 
+involving the user’s keyword input using the [rtweet](https://rtweet.info/) library.
+
 **The learning goals of this project were:**
 * Familiarize with R language through [Jupyter](https://jupyter.org/) environment 
 * Data Collection 
@@ -28,9 +31,6 @@ Here's a few that I made:
 * [Graph 1](https://raw.githubusercontent.com/JackFrostiez/Twitter-Application-Dev/master/Lab1/part2/Graph_1.png)
 * [Graph 2](https://raw.githubusercontent.com/JackFrostiez/Twitter-Application-Dev/master/Lab1/part2/Graph_2.png)
 * [a CDC HeatMap](https://raw.githubusercontent.com/JackFrostiez/Twitter-Application-Dev/master/Lab1/part2/Graph_3.png)
-
-A twitter application implemented in R to gather over 2,000+ tweets with hashtags 
-involving the user’s keyword input using the [rtweet](https://rtweet.info/) library.
 
 ### Part 3
 __For this part, we will start developing a twitter application.__
