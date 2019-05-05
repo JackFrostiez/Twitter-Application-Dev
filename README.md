@@ -52,6 +52,6 @@ __"Flu Season" Heatmap__
 __"Sick" Heatmap__
 ![alt text](https://github.com/JackFrostiez/Twitter-Application-Dev/blob/master/Lab1/Sick_HeatMap.png)
 
-I concluded that my "Sick" Heatmap resembleed closest to CDC Heatmap.
+I concluded that my "Sick" Heatmap resembled closest to CDC Heatmap.
 
 __Thanks for reading! I hope you enjoyed seeing my heatmaps!__
