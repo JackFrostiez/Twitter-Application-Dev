@@ -48,7 +48,7 @@ Below is the original CDC Heatmap:
 __"Flu" Heatmap__
 ![alt text](https://github.com/JackFrostiez/Twitter-Application-Dev/blob/master/Lab1/Flu_HeatMap.png)  
 __"Flu Season" Heatmap__
-![alt text](https://github.com/JackFrostiez/Twitter-Application-Dev/blob/master/Lab1/Flu_Season_HeatMap.png)
+![alt text](https://github.com/JackFrostiez/Twitter-Application-Dev/blob/master/Lab1/Flu_Season_HeatMap.png) 
 __"Sick" Heatmap__
 ![alt text](https://github.com/JackFrostiez/Twitter-Application-Dev/blob/master/Lab1/Sick_HeatMap.png)
 
